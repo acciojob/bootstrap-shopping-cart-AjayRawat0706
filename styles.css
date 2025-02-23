@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
- .block-heading {
+ heading {
             text-align: center;
             color: #3b99e0;
             margin-top: 20px;
         }
-        .summary {
+          {
             border-top: 2px solid #5ea4f3;
             background-color: #f7fbff;
             padding: 20px;
